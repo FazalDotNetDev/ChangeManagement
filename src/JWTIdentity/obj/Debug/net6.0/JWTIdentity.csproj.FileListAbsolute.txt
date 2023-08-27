@@ -1,0 +1,17 @@
+D:\ChangeManagement\src\JWTIdentity\bin\Debug\net6.0\JWTIdentity.deps.json
+D:\ChangeManagement\src\JWTIdentity\bin\Debug\net6.0\JWTIdentity.dll
+D:\ChangeManagement\src\JWTIdentity\bin\Debug\net6.0\JWTIdentity.pdb
+D:\ChangeManagement\src\JWTIdentity\bin\Debug\net6.0\Application.dll
+D:\ChangeManagement\src\JWTIdentity\bin\Debug\net6.0\Domain.dll
+D:\ChangeManagement\src\JWTIdentity\bin\Debug\net6.0\Application.pdb
+D:\ChangeManagement\src\JWTIdentity\bin\Debug\net6.0\Domain.pdb
+D:\ChangeManagement\src\JWTIdentity\obj\Debug\net6.0\JWTIdentity.csproj.AssemblyReference.cache
+D:\ChangeManagement\src\JWTIdentity\obj\Debug\net6.0\JWTIdentity.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChangeManagement\src\JWTIdentity\obj\Debug\net6.0\JWTIdentity.AssemblyInfoInputs.cache
+D:\ChangeManagement\src\JWTIdentity\obj\Debug\net6.0\JWTIdentity.AssemblyInfo.cs
+D:\ChangeManagement\src\JWTIdentity\obj\Debug\net6.0\JWTIdentity.csproj.CoreCompileInputs.cache
+D:\ChangeManagement\src\JWTIdentity\obj\Debug\net6.0\JWTIdentity.csproj.CopyComplete
+D:\ChangeManagement\src\JWTIdentity\obj\Debug\net6.0\JWTIdentity.dll
+D:\ChangeManagement\src\JWTIdentity\obj\Debug\net6.0\refint\JWTIdentity.dll
+D:\ChangeManagement\src\JWTIdentity\obj\Debug\net6.0\JWTIdentity.pdb
+D:\ChangeManagement\src\JWTIdentity\obj\Debug\net6.0\ref\JWTIdentity.dll
